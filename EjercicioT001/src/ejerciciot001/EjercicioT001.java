@@ -53,7 +53,6 @@ public class EjercicioT001 {
         System.out.printf(Locale.US, "3. %s: $%.2f%n", nombre3, gasto3);
         System.out.println("-------------------------------");
         System.out.printf(Locale.US, "GASTO MENSUAL TOTAL: $%.2f%n",totalGastos);
-
         teclado.close();
     }
     
